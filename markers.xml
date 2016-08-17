@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+
+<markers>
+<marker>
+<name>Pune</name>
+<address>Magarpatta City</address>
+<lat>18.518705</lat>
+<lng>73.927157</lng>
+</marker>
+
+<marker>
+<name>Pune</name>
+<address>Koregaon Park</address>
+<lat>18.535958</lat>
+<lng>73.905871</lng>
+</marker>
+
+<marker>
+<name>Pune</name>
+<address>Agakhan Palace</address>
+<lat>18.553209</lat>
+<lng>73.913767</lng>
+</marker>
+
+<marker>
+<name>Pune</name>
+<address>Viman nagar</address>
+<lat>18.567636</lat>
+<lng>73.909643</lng>
+</marker>
+
+<marker>
+<name>Pune</name>
+<address>Pashan</address>
+<lat>18.541629</lat>
+<lng>73.800641</lng>
+</marker>
+
+</markers>
